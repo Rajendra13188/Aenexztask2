@@ -4,4 +4,5 @@ Programs Included:
 1. Electricity Bill Calculator
 2. Online Store Discount Calculator
 3. Bank Loan Approval System
-Language Used: Python
+Language Used:
+-Python
